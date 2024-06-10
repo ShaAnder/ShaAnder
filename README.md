@@ -5,11 +5,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 💡I love learning new things and exploring new tech and software
-<br>🎓Studying FS software development @codeInstitute & OSSU Comp Sci
-<br>🌱Currently learning React/Redux/Native , C++ and Kotlin For Apps
-<br>🏓In my free time I play guitar, edit videos And Workout (too much)
-<br>✉️Looking to reach out or get in contact? Email me over at [here](mailto:shaunanderton1@gmail.com?subject=[GitHub])
-<br>📄Here's a copy of my [Resume](). I'm always to constructive feedback!
+<br>
+📝In progress: quiz app | vpet health tracker | jsrpg!
+<br>
+🎓Studying FS software development @codeInstitute & OSSU Comp Sci
+<br>
+🌱Currently learning React/Redux/Native , C++ and Kotlin For Apps
+<br>
+🏓In my free time I play guitar, edit videos And Workout (too much)
   
 <div align="center">
   <a href="https://github.com/ShaAnder">
