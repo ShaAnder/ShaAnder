@@ -38,6 +38,7 @@
   <img align="center" title="Canva" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> 
   <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">   
   <img align="center" title="Gimp" alt="Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"> 
+<br><br>
 </div>  
 
 
