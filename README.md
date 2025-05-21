@@ -6,7 +6,7 @@
 
 💡I love learning new things and exploring new tech and software
 <br>
-📝In progress: PP5 What's app React Clone | Vpet fitbit app | DOOM™️
+📝In progress: PP5 Discord Clone | Vpet fitbit app | ReactenStein™️
 <br>
 🎓Studying FS software development @codeInstitute & OSSU Comp Sci
 <br>
