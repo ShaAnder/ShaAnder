@@ -1,47 +1,53 @@
+<div align="center">
 
+# Hi, I'm Shaun 👋
 
+**Junior Software Developer | React · TypeScript · Full-Stack Applications**
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Building maintainable web apps, mobile experiences, and interactive browser systems.
 
-💡I love learning new things and exploring new tech and software
-<br>
-📝In progress: PP5 Discord Clone | Vpet fitbit app | ReactenStein™️
-<br>
-🎓Studying FS software development @codeInstitute & OSSU Comp Sci
-<br>
-🌱Currently learning React/Redux/Native , C++ and Kotlin For Apps
-<br>
-🏓In my free time I play guitar, edit videos And Workout (too much)
-  
+[![GitHub](https://img.shields.io/badge/GitHub-ShaAnder-181717?style=for-the-badge&logo=github)](https://github.com/ShaAnder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-anderton-551670a9/)
 
-<div>
-  <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="Python" alt="Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" title="C++" alt="c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"> 
-  <img align="center" title="Kotlin" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"> 
-  <br><br>
-  <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" title="Redux" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
-  <img align="center" title="NextJS" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> 
-  <img align="center" title="ThreeJS" alt="Three" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg">
-  <img align="center" title="Nodejs" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
-  <img align="center" title="Django" alt="DJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
-  <br><br>
-  <img align="center" title="Github" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" color="white"> 
-  <img align="center" title="Netlify" alt="Netlfiy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg"> 
-  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
-  <img align="center" title="Canva" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> 
-  <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">   
-  <img align="center" title="Gimp" alt="Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"> 
-<br><br>
-</div>  
+</div>
 
+## About me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaun-anderton-551670a9/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShaAnder10) 
-[![](https://visitcount.itsvg.in/api?id=ShaAnder&icon=0&color=0)](https://visitcount.itsvg.in)
+I'm a software development diploma graduate (September 2025), working toward my first professional software engineering role. My focus is **JavaScript, TypeScript, React, APIs and reliable application development**.
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+I enjoy working through practical engineering problems: tracing state and data flow, designing components, debugging race conditions, writing tests, and understanding the trade-offs behind an implementation. I also explore rendering and game architecture through a long-running TypeScript project.
+
+## Featured projects
+
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| **[Ping Me](https://github.com/ShaAnder/ping-me-web)** | Authentication, database-backed messaging, realtime subscriptions, message/server/channel features, tests and CI | React, TypeScript, Supabase, PostgreSQL, Vitest |
+| **[Relic Hunter Online](https://github.com/ShaAnder/relic-hunter-online)** *(in development)* | TypeScript workspaces, modular game systems, isometric rendering, elevation, visibility and pathing | TypeScript, PixiJS, Vite, Node.js |
+| **[FitForge](https://github.com/ShaAnder/fitforge)** | React Native app architecture, auth and data handling, forms/validation and automated tests | React Native, Expo, TypeScript, Supabase, Jest |
+
+> **Status matters:** Relic Hunter is under active development. Project repositories document implemented work and known limitations; not every project has a verified public demo.
+
+## Tools I use
+
+**Frontend:** JavaScript · TypeScript · React · HTML · CSS · Tailwind CSS · Material UI  
+**Web & data:** PostgreSQL · Supabase · REST APIs · Django / Django REST Framework  
+**Testing & workflows:** Git · GitHub Actions · Vitest · React Testing Library · Jest  
+**Other projects:** React Native · Expo · PixiJS · Vite · Next.js
+
+## Currently focused on
+
+- Strengthening JavaScript, TypeScript and React fundamentals through real coding and debugging tasks.
+- Making project decisions and implementation trade-offs easier to explain, test and maintain.
+- Preparing for junior software/web development opportunities in Ireland.
+
+## Outside code
+
+Strength training, game development, graphics programming, and creative technology.
+
+---
+
+<div align="center">
+
+**Interested in working together?** [Connect on LinkedIn](https://www.linkedin.com/in/shaun-anderton-551670a9/) or explore the repositories above.
+
+</div>
