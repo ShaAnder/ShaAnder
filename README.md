@@ -22,7 +22,7 @@ I enjoy working through practical engineering problems: tracing state and data f
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | **[Ping Me](https://github.com/ShaAnder/ping-me-web)** | Authentication, database-backed messaging, realtime subscriptions, message/server/channel features, tests and CI | React, TypeScript, Supabase, PostgreSQL, Vitest |
-| **[Relic Hunter Online](https://github.com/ShaAnder/relic-hunter-online)** *(in development)* | TypeScript workspaces, modular game systems, isometric rendering, elevation, visibility and pathing | TypeScript, PixiJS, Vite, Node.js |
+| **[Relic Hunter Online](https://github.com/ShaAnder/relic-hunter-online)** | TypeScript workspaces, modular game systems, isometric rendering, elevation, visibility and pathing | TypeScript, PixiJS, Vite, Node.js |
 | **[FitForge](https://github.com/ShaAnder/fitforge)** | React Native app architecture, auth and data handling, forms/validation and automated tests | React Native, Expo, TypeScript, Supabase, Jest |
 
 > **Status matters:** Relic Hunter is under active development. Project repositories document implemented work and known limitations; not every project has a verified public demo.
